@@ -1,37 +1,95 @@
-## Welcome to GitHub Pages
+# 自由天堂网络组织成员规范
 
-You can use the [editor on GitHub](https://github.com/FREE-HEAVEN/002/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 请仔细阅读。
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## 一．引言
 
-# Header 1
-## Header 2
-### Header 3
+1.没有神，人就是神；
 
-- Bulleted
-- List
+2.神不过是世界上的一般能源，人可以取为己用；
 
-1. Numbered
-2. List
+3.神就是我自己；
 
-**Bold** and _Italic_ and `Code` text
+4.神是虚无；
 
-[Link](url) and ![Image](src)
-```
+5.虚无是本我。
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### 6.爱自己，尊重自己，自己主宰自己的灵魂与生命
 
-### Jekyll Themes
+### 7.良恶由每个人自己的想法分辨
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FREE-HEAVEN/002/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## 二．基本条例
 
-### Support or Contact
+1.自由天堂网络组织于2020年8月5日成立。以每年8月5日或最近的一个周六作为独立日。
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+2.自由天堂网络组织统治阶级为自由天堂领导层，网络组织唯一合法领导。
+
+3.自由天堂网络组织总部为以gibhub组织为基础的网站，官方线上集结点为QQ群，采用公元纪年法，组织旗为自由光明旗，组织标志为自由徽记，代组织歌为《自由小调》。
+
+## 三．组织要求
+
+### （1）十七条
+1.自由代表了豁欲，而不是无节制。
+
+2.自由代表道德思想水平得到发展的权利，而不仅是肉体生命的真实存在。
+注：根据《发展心理学》道德发展阶段理论作出修改
+
+3.自由代表最纯粹的智慧，而不是自欺欺人的猜测。
+
+4.自由代表了对那些值得友善对待的人的善意，而不是对那些忘恩负义的人的爱。
+
+5.自由代表根据自己的意愿处理事务而不受约束的权利。而法律和政府应当援助请求制裁侵犯他人权益的人。
+
+6.自由主张担负应该的责任，而不是关心无谓的东西。
+
+7.自由代表人类只不过是一种动物，并没有比较高尚。
+
+8自由代表无视所谓的七原罪，因为他们会带来肉体、精神和感情上的满足。但是这建立在人们可以接受的范围内
+
+9.自由是教会前所未有的好朋友，因为他在这些年里维持了它的运作。·
+
+10.共和制国家的公民应当拥有言论自由，但是应当使其有利于共和国的发展。（自觉）
+
+11.除非你确定别人想听，否则不要对别人诉苦。（尊重）
+
+12.在别人的地盘中，要显示对他的尊敬，否则别去那里。（尊重）
+
+13.如果一个客人在你的地盘侵犯了你，你有权随意处置此人。但是应当在自己的地盘内创造一套处理事务的原则并在其成熟后严格遵守。（原则）
+注：人们应当形成不同的处事原则并互相借鉴学习。这有利于社会进步发展。
+
+14.不要拿不属于你的东西，除非这对其他人是种负担，且他们哭求解脱。（计谋）
+
+15.答谢能让你成功的达成你的欲望的能力，如果你在获得它赐予的成功后，否定这能力，你会损失所有你获得的东西。（感恩）
+
+16.不要抱怨于你无关的事。（自觉）
+
+17.人们应当在国家的领导之下形成自己的道德伦理观念，而不是盲从传统道德伦理观念。（独立）
+注：盲从并恪守传统道德伦理观念的人是自私的，因为他们只关心道德和伦理和忽视了更重要的事务。道德和伦理观念应当与时俱进，同时不应完全抛弃传统，因为在传统上进行调整更利于新的适合社会现状的道德伦理观念被人们接受。
+
+
+### （2）九罪
+
+1.愚蠢——九罪之首。对愚蠢的麻木是最坏的情况。无知是一方面，但社会的繁荣正是依赖于人们的愚昧。它源于人们对耳闻之事深信不疑。媒体促使这种情形不仅被人们所接受，甚至被广为称赞。崇拜者们必须学会从骗局中发掘真相并拒绝成为愚者。
+
+2.自负——言之无物虚张声势不仅令人怒不可遏，也有违基本规则。对眼下生财之道也采取同样愚蠢的方式。自负让每一个都被认为是个蠢货，不管他们是否能凭借那些小把戏取得成功。
+
+3.唯我——这非常危险。有些人不如你善于配合，你必须设定一套应对他们的方法。如果你期望他们对待你像你对待他们一样考虑周到，彬彬有礼，遵从有佳，那就错了。他们不会。相反，教徒时刻贯彻着“以其人之道还至其人之身”的格言。且时刻保持清醒以避免滑入他人都和你一样的幻觉中去。诚如人们所说，乌托邦主义只有在哲学家的国度中才是完美的想法。然而，很不幸地（或者根据马基亚维利的说法，很幸运地），我们距离这点很远。
+
+4.自欺——这是另一项主罪。我们没有必要对祭品或是食物保持尊敬，包括别人期望我们扮演的角色。自欺唯一合理出现的情形是那是有意为之的玩笑，但那已并非自欺。
+
+5.随波逐流——如果一个人的愿望令你受益，那么顺从它是理所应当的。但只有愚者才会顺应大众的意志，让众人对你发号施令。关键就在于，选择一个高明的领导者，而不是被群众的胡想所左右。
+
+6.缺乏立场——你必须清楚地看到你是谁，你要做什么，你的存在会带来什么样的影响。我们每时每刻都在创造历史。在你的脑海中铺展历史和社会的辽阔画面。让一切各得其所，不要人云亦云——你要明白，如今你与世界的大部分人已不再处于同一个层次。
+
+7.摒弃本源——要明白这是给人们洗脑并让他们接受新鲜事物的关键。虽然实际上那些新事物不过是将人们广为知晓和接受的事物改头换面。我们总是被期望对创造者的智慧顶礼膜拜，而忘记事物的本质和初始。这会铸成一个为所欲为，喜新厌旧的社会。
+
+8.多余的自尊——“多余”这两个字很重要。当你与过去完全决裂时，自尊是重要的。原则是：如果自尊对你有必要，那么很好。然而当你由于它而止步不前，走投无路，唯一的出路是说一句：“对不起，我犯了一个错误，我想我可以做出妥协。”那么就这样做吧。
+
+9.审美缺乏——。我们必须利用审美来创造伟大而神奇的成果。它不是人们所期望的那种哗众取宠，它就是它。固然每个人有自己的审美标准，它反映个人的态度。但不能否认，仍有让大众感到愉悦和和谐的形式存在于世。
+
+ 
+### 自由天堂万岁！
+### 自由与你我同在！
